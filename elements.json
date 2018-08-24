@@ -1,0 +1,9 @@
+{
+	"elements": [
+		{
+			"order": 1,
+			"type": "string",
+			"value": "S3"
+		}
+	]
+}
